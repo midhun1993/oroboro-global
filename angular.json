@@ -23,10 +23,21 @@
               "src/favicon.ico",
               "src/assets"
             ],
-            "styles": [
-              "src/styles.css"
+             "styles": [
+              "src/styles.css",
+              "src/assets/css/components.css",
+              "src/assets/css/icons.css",
+              "src/assets/css/responsee.css",
+              "src/assets/css/template-style.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/js/jquery-1.8.3.min.js",
+              "src/assets/js/jquery-ui.min.js",
+              "src/assets/js/jquery.events.touch.js",
+              "src/assets/js/modernizr.js",
+              "src/assets/js/responsee.js",
+              "src/assets/js/template-scripts.js"
+           ]
           },
           "configurations": {
             "production": {
@@ -89,9 +100,20 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/assets/css/components.css",
+              "src/assets/css/icons.css",
+              "src/assets/css/responsee.css",
+              "src/assets/css/template-style.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/js/jquery-1.8.3.min.js",
+              "src/assets/js/jquery-ui.min.js",
+              "src/assets/js/jquery.events.touch.js",
+              "src/assets/js/modernizr.js",
+              "src/assets/js/responsee.js",
+              "src/assets/js/template-scripts.js"
+           ]
           }
         },
         "lint": {
